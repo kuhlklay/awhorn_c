@@ -1,2 +1,5 @@
 # awhorn_c
-"awhorn"-compiler
+
+Compiler of the Awhorn Programming Language
+
+[AWCL 1.0 License]()
