@@ -1,0 +1,12 @@
+let a = 0x1.8p1;         // Hex-Float → 3.0
+let b = 0xF.4p2;         // Hex-Float → 61.0
+let c = 42_000;          // Integer
+let d = "Hello, world!"; // String
+let e = '\n';            // Character
+print(a + b + c);
+
+/* This
+ * is
+ * a
+ * comment
+ */
